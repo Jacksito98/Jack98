@@ -311,7 +311,7 @@ Usa ${prefix}verify para verificarte y poder usar el bot no abuses de el o te bl
 			const isCmd = body.startsWith(prefix)
       const is = budy.slice(0).trim().split(/ +/).shift().toLowerCase()
 			mess = {
-  wait: '⏳ Espera un momento care vrg😾 ',
+  wait: '⏳ Eperate Mam4gvo😾 ',
   success: '🎉 Con exito',
   Public: '🛡 Modo privado activado',
   ferr: 'Lo siento ocurrio un error ',
